@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EcoGuide</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="checkbox1">Не мусорить на улице</string>
+    <string name="checkbox">Сдать мусор на переработку</string>
+    <string name="checkbox2">Не использовать одноразовую посуду</string>
+    <string name="checkbox4">Начать сортировать отходы</string>
+
+</resources>

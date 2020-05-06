@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146211920054",
+    "firebase_url": "https://ecoguide-fd75a.firebaseio.com",
+    "project_id": "ecoguide-fd75a",
+    "storage_bucket": "ecoguide-fd75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146211920054:android:557ec2e949321d2478ee17",
+        "android_client_info": {
+          "package_name": "com.example.eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146211920054-rdmno377fpb2hf8fr1an7m2snaia251d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eco",
+            "certificate_hash": "e18fbe9e34a1ad45f7e65b275653a0e26e31f808"
+          }
+        },
+        {
+          "client_id": "146211920054-ul8ugahptt7sutcpp6jjdteeokgn1sqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6oO7m8UtEbpQ6qsE8uFmW4OBZuGu0uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146211920054-ul8ugahptt7sutcpp6jjdteeokgn1sqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
